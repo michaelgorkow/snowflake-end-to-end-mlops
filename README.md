@@ -50,7 +50,7 @@ EXECUTE IMMEDIATE FROM @ML_DB.PUBLIC.GITHUB_REPOSITORY_SNOWFLAKE_SIMPLE_MLOPS/br
 
 ## Explore and Run the Demo
 Once the demo setup finishes, click the provided link to open the notebook and explore the demo:  
-![Setup Output](resources/setup_output.png)
+![Setup Output](misc/setup_output_ex.png)
 
 
 ## Snowflake Features in this demo
