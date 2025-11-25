@@ -52,6 +52,9 @@ EXECUTE IMMEDIATE FROM @ML_DB.PUBLIC.GITHUB_REPOSITORY_SNOWFLAKE_SIMPLE_MLOPS/br
 Once the demo setup finishes, click the provided link to open the notebook and explore the demo:  
 ![Setup Output](misc/setup_output_ex.png)
 
+## Architecture
+![Setup Output](misc/mlops_demo.png)
+
 
 ## Snowflake Features in this demo
 * [Snowflake's Git Integration](https://docs.snowflake.com/en/developer-guide/git/git-overview)
